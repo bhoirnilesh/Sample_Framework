@@ -9,7 +9,7 @@ class cutomLoger:
         logger = logging.getLogger(logger_name)
         logger.setLevel(loglevel)
 
-        fh = logging.FileHandler("automation.log")
+        fh = logging.FileHandler(".\\Logs\\automation.log")
 
         formatter = logging.Formatter('%(asctime)s: %(levelname)s: %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 

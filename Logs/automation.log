@@ -1,3 +1,8 @@
 04/17/2023 11:35:16 AM: INFO: this is info message
 04/17/2023 11:35:16 AM: WARNING: this is warning message
 04/17/2023 11:35:16 AM: ERROR: this is error message
+04/17/2023 02:50:24 PM: INFO: *************Test_0001_Login***************
+04/17/2023 02:50:24 PM: INFO: *************Verifying Home Page Title***************
+04/17/2023 02:50:27 PM: INFO: *************Home Page Title test case passed ***************
+04/17/2023 02:50:29 PM: INFO: *************Verifying the Login test***************
+04/17/2023 02:50:33 PM: INFO: *************Login test is passed***************

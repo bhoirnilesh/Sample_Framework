@@ -38,3 +38,8 @@
 04/17/2023 01:29:26 PM: INFO: ************* test is passed***************
 04/17/2023 01:29:45 PM: INFO: *************Verifying the purchase for Cat test_002***************
 04/17/2023 01:29:49 PM: INFO: *************Login test is passed***************
+04/17/2023 02:44:17 PM: INFO: *************Test_0001_Login***************
+04/17/2023 02:44:17 PM: INFO: *************Verifying Home Page Title***************
+04/17/2023 02:44:20 PM: INFO: *************Home Page Title test case passed ***************
+04/17/2023 02:44:22 PM: INFO: *************Verifying the Login test***************
+04/17/2023 02:44:26 PM: INFO: *************Login test is passed***************

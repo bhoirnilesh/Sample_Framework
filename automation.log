@@ -1,0 +1,40 @@
+04/17/2023 01:04:51 PM: INFO: *************Test_0001_Login***************
+04/17/2023 01:04:51 PM: INFO: *************Verifying Home Page Title***************
+04/17/2023 01:07:14 PM: INFO: this is info message
+04/17/2023 01:07:14 PM: WARNING: this is warning message
+04/17/2023 01:07:14 PM: ERROR: this is error message
+04/17/2023 01:07:16 PM: INFO: *************Test_0001_Login***************
+04/17/2023 01:07:16 PM: INFO: *************Verifying Home Page Title***************
+04/17/2023 01:07:19 PM: INFO: *************Home Page Title test case passed ***************
+04/17/2023 01:07:20 PM: INFO: *************Verifying the Login test***************
+04/17/2023 01:07:24 PM: INFO: *************Login test is passed***************
+04/17/2023 01:14:08 PM: INFO: ************* Test_002_DDT_Login ***************
+04/17/2023 01:14:08 PM: INFO: *************Verifying the Login test***************
+04/17/2023 01:14:14 PM: INFO: Validating username:nil.123password:nil@123
+04/17/2023 01:14:14 PM: INFO: *************Login test is passed***************
+04/17/2023 01:14:16 PM: INFO: *************** User is valid *******************
+04/17/2023 01:14:18 PM: INFO: Validating username:n1password:n1
+04/17/2023 01:14:18 PM: INFO: *************Login test is passed***************
+04/17/2023 01:14:18 PM: INFO: *************** User is invalid *******************
+04/17/2023 01:14:21 PM: INFO: Validating username:invalid1password:invalid1
+04/17/2023 01:14:21 PM: INFO: ************* passed ***************
+04/17/2023 01:14:25 PM: INFO: Validating username:invalid2password:invalid2
+04/17/2023 01:14:25 PM: INFO: ************* passed ***************
+04/17/2023 01:14:28 PM: INFO: Validating username:invalid3password:invalid3
+04/17/2023 01:14:28 PM: INFO: ************* passed ***************
+04/17/2023 01:14:32 PM: INFO: Validating username:invalid4password:invalid4
+04/17/2023 01:14:32 PM: INFO: ************* passed ***************
+04/17/2023 01:14:35 PM: INFO: Validating username:n2password:n2
+04/17/2023 01:14:35 PM: INFO: *************Login test is passed***************
+04/17/2023 01:14:35 PM: INFO: *************** User is invalid *******************
+04/17/2023 01:14:37 PM: INFO: Login DDT test passed
+04/17/2023 01:14:37 PM: INFO: ****End of Login DDT test*****
+04/17/2023 01:14:37 PM: INFO: *************** Completed TC_LoginDDT_002 *************
+04/17/2023 01:26:37 PM: INFO: *************Verifying the purchase dog test 001***************
+04/17/2023 01:26:42 PM: ERROR: ************* test is failed***************
+04/17/2023 01:26:44 PM: INFO: *************Verifying the purchase for Cat test_002***************
+04/17/2023 01:26:48 PM: ERROR: *************Login test is failed***************
+04/17/2023 01:29:22 PM: INFO: *************Verifying the purchase dog test 001***************
+04/17/2023 01:29:26 PM: INFO: ************* test is passed***************
+04/17/2023 01:29:45 PM: INFO: *************Verifying the purchase for Cat test_002***************
+04/17/2023 01:29:49 PM: INFO: *************Login test is passed***************
